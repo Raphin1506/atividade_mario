@@ -1,1 +1,1 @@
-# atividade_mario
+Olá Professor, fui obrigado a zipar o projeto, pois não conseguia o puxar pro github mesmo tirando o node_modules, todavia os códigos usados estão registrados dentro do documento com o passo a passo do projeto.
